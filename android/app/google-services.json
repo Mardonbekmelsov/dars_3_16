@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "895511832565",
+    "firebase_url": "https://dars-f31ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dars-f31ed",
+    "storage_bucket": "dars-f31ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895511832565:android:28a720b1745f6fee3262bc",
+        "android_client_info": {
+          "package_name": "com.example.dars_12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5R7m4ODvjxa7MDsVNQvI--FC1iPaVIpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895511832565:android:bee1b83e98daee423262bc",
+        "android_client_info": {
+          "package_name": "com.example.dars_71"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5R7m4ODvjxa7MDsVNQvI--FC1iPaVIpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
